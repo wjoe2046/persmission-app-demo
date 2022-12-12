@@ -22,7 +22,7 @@
     "@material-ui/icons": "^4.9.1",
     "babel-polyfill": "^6.26.0",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-system": "^2.2.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
